@@ -7,6 +7,7 @@
 </h4>
 
 <p align="center">
+  <a href="#instalando">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
@@ -18,6 +19,30 @@
 <p align="center">
   <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
 </p>
+
+## ⚙ Instalando
+
+Você precisará do [NPM](https://nodejs.org/en/) ou do [YARN](https://yarnpkg.com) instalado.
+Siga os comandos abaixo:
+
+```bash
+# Clone o repositório
+git clone https://github.com/RamonMacedo/BeTheHeroOmnistackWeek.git
+
+# Acesse o diretório que quer executar dentre os 3 disponíveis
+cd backend || frontend || mobile
+
+# Instale as dependencias
+yarn install
+```
+
+## 💻 Execute o projeto à partir do comando
+
+```bash
+yarn start
+[ou]
+yarn run start
+```
 
 ## :rocket: Tecnologias
 
