@@ -22,7 +22,7 @@
 
 ## ⚙ Instalando
 
-Você precisará do [NPM](https://nodejs.org/en/) ou do [YARN](https://yarnpkg.com) instalado.
+Você precisará do [NPM](https://nodejs.org/en/) ou [YARN](https://yarnpkg.com) instalado.
 Siga os comandos abaixo:
 
 ```bash
